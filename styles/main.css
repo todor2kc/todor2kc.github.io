@@ -464,6 +464,10 @@ for small devices example Iphone SE */
     .footer {
         width: 60%;
     }
+
+    .home-image.registration { 
+        max-width: 300px;
+    }
 }
 
 /* Media queries END */
