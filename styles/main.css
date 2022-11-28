@@ -377,6 +377,9 @@ for small devices example Iphone SE */
     .clip-path.left {
         margin-right: -7px;
     }
+    .home-image.registration {
+        max-width: 150px;
+    }
 }
 
 @media only screen and (max-width: 768px) {
@@ -418,9 +421,6 @@ for small devices example Iphone SE */
 
     .btn.registration {
         margin: 5px 0;
-    }
-    .home-image.registration {
-        max-width: 200px;
     }
 }
 
