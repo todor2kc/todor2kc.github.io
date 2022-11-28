@@ -47,8 +47,8 @@ section {
 }
 
 .logo {
-    width: 200px;
-    padding: 20px 20px 50px 20px;
+    width: 100px;
+    padding: 20px 20px 20px 20px;
 }
 
 section.home {
@@ -389,6 +389,7 @@ for small devices example Iphone SE */
 
     .logo {
         width: 90px;
+        padding: 5px;
     }
 
     .contact-form{
@@ -406,10 +407,6 @@ for small devices example Iphone SE */
     .contact-form .row input {
         font-size: 10px;
         margin: 5px 0;
-    }
-
-    .logo {
-        padding: 5px;
     }
 
     fieldset {
