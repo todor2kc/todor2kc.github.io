@@ -264,6 +264,7 @@ section.home {
 /* Registration styles BEGIN */
 
 fieldset {
+    font-size: 12px;
     padding: 10px;
     border: none;
     text-align: left;
@@ -312,10 +313,10 @@ fieldset input[type="checkbox" i] {
     color: #111;
     background: transparent;
     width: 100%;
-    padding: 10px;
+    padding: 5px;
     outline: none;
     font-family: 'Poppins', sans-serif;
-    font-size: 16px;
+    font-size: 12px;
     font-weight: 300;
     margin: 10px 0;
     resize: none;
